@@ -4,7 +4,7 @@
 
 /* Schrijf hier  jouw CSS! */
 
- /*Opdracht 2.1*/
+/*Opdracht 2.1*/
 .one {
     display: flex;
     flex-direction: column;
@@ -12,7 +12,7 @@
 }
 
 
- /*Opdracht 2.2*/
+/*Opdracht 2.2*/
 .two {
     display: flex;
     flex-direction: row;
@@ -20,7 +20,7 @@
 }
 
 
- /*Opdracht 2.3*/
+/*Opdracht 2.3*/
 .three {
     display: flex;
     flex-direction: row;
@@ -36,7 +36,7 @@
 }
 
 
- /*Opdracht 2.4*/
+/*Opdracht 2.4*/
 .four {
     display: flex;
     flex-direction: column;
@@ -69,7 +69,7 @@
 }
 
 
- /*Opdracht 2.5*/
+/*Opdracht 2.5*/
 .five {
     display: flex;
     flex-direction: row;
